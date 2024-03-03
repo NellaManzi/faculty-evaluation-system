@@ -1,6 +1,8 @@
 # Faculty Evaluation System SPCC
 
-Faculty Evaluation System (FES) project is developed for Systems Plus Computer College Caloocan! This system is designed to streamline the process of evaluating faculty performance and provide feedback for continuous improvement. Having Sentiment Analysis as it's core feature, faculty members can receive constructive feedback from students, while students can have a platform to voice their opinions and concerns about their learning experiences. This project aims to enhance the quality of education by fostering a culture of continuous improvement within the institution.
+![3D Portfolio](https://github.com/danieleverest/faculty-evaluation-system/blob/main/faculty%20evaluation%20system.png)
+
+The Faculty Evaluation System (FES) project is developed for Systems Plus Computer College Caloocan! This system is designed to streamline the process of evaluating faculty performance and provide feedback for continuous improvement. Having Sentiment Analysis as its core feature, faculty members can receive constructive feedback from students, while students can have a platform to voice their opinions and concerns about their learning experiences. This project aims to enhance the quality of education by fostering a culture of continuous improvement within the institution.
 
 ## Website
 
@@ -21,4 +23,4 @@ Faculty Evaluation System (FES) project is developed for Systems Plus Computer C
 
 ## License
 
-The project does not provide a license, which means modification or distribution outside of the developers and benificaries are prohibited.
+The project does not provide a license, which means modification or distribution outside of the developers and beneficiaries are prohibited.
